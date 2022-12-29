@@ -9,3 +9,4 @@ edition = "2021"
 utils = { git = "https://github.com/anmeldetool/utils.git" }
 plugin_user_basic = { git = "https://github.com/anmeldetool/plugin_user_basic.git" }
 rocket = "0.5.0-rc.2"
+rocket_dyn_templates = {version = "0.1.0-rc.2", features = ["tera"]}
